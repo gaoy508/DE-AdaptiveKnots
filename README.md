@@ -11,9 +11,9 @@
 #### SNTO_knots.R
 序贯数论优化算法主程序
 
-#### ode_equation2_obj2
+#### ode_equation2_obj2.R
 DDE方程的样条联合估计目标函数最小化
 
-#### DDE_real
+#### DDE_real.R
 
 算法在澳大利亚绵羊苍蝇实验室种群资源竞争实验数据BlowfilesData.csv上的应用
